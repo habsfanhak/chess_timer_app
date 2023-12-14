@@ -1,1 +1,1 @@
-This is an in progress application that uses react native to create a mobile application designed to mimic a chess timer. When complete, the application allows users to set a desired time control and play through a match in real life.
+This is an in progress application that uses react native to create a mobile application designed to mimic a chess timer. When complete, the application allows users to set a desired time control and play through a match in real life, while keeping track of how much time each player has remaining.
